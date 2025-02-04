@@ -17,19 +17,19 @@ int main()
 	//std::cin.get();
 
 	// Problem 2.
-	//Time time1 = Time(10);            // 10시 0분 0초.
-	//Time time2 = Time(10, 20);        // 10시 20분 0초.
-	//Time time3 = Time(10, 20, 30);    // 10시 20분 30초.
+	Time time1 = Time(10);            // 10시 0분 0초.
+	Time time2 = Time(10, 20);        // 10시 20분 0초.
+	Time time3 = Time(10, 20, 30);    // 10시 20분 30초.
 
-	//time2.ShowTime();
-	//time2.ShowTimeInSeconds();
+	time2.ShowTime();
+	time2.ShowTimeInSeconds();
 
-	//std::cin.get();
+	std::cin.get();
 
 	// Problem 3.
 	// NameCard(이름, 전화번호, 주소, 직급);
-	NameCard jang = NameCard("Jang Se Yun", "010-1111-1111", "서울시...", "Freelancer");
-	jang.ShowData();
+	//NameCard jang = NameCard("Jang Se Yun", "010-1111-1111", "서울시...", "Freelancer");
+	//jang.ShowData();
 
 	//std::cin.get();
 }
