@@ -10,8 +10,6 @@ class Firetruck
 public:
 	Firetruck()
 	{
-		// ∆—≈‰∏Æ ∆–≈œ.
-
 		ladder = new Ladder(10.0f);
 	}
 

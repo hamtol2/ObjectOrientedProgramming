@@ -152,6 +152,7 @@
     <ClInclude Include="Hose.h" />
     <ClInclude Include="Ladder.h" />
     <ClInclude Include="Point.h" />
+    <ClInclude Include="TraineeFirefighter.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
